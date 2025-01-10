@@ -8,7 +8,7 @@ To get started, you will need a Femtofox. You can either build or buy one.
 
 <details>
 
-< #### 1. Building a Femtofox >
+<summary> <H4> 1. Building a Femtofox </summary>
   Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
  - Download the Gerber files from [here](TBC), selecting the set of files for your application:
  - Bare PCB - you have all of the necessary components on hand
@@ -56,6 +56,8 @@ Although the Femtofox CE is only licensed for personal use and not for sale, a F
 
 The Femtofox Pro has all the same features as the CE, plus a few features that only make sense when ordered at scale [Insert link]. If you require a large quantity of Femtofox boards, please get in touch.
 
+</details>
+
 ### Operating System
 
  1. Download the latest image of Foxbuntu from the releases [link] and extract from the zip file.
@@ -95,6 +97,6 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIyNzQ3OTYsLTEzMzgxODI0MTAsMT
-kxODgzMzQwNl19
+eyJoaXN0b3J5IjpbNzIyOTkyNjA2LC0xMzkyMjc0Nzk2LC0xMz
+M4MTgyNDEwLDE5MTg4MzM0MDZdfQ==
 -->
