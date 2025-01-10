@@ -5,10 +5,12 @@ The Femtofox is similar to, and can functionally replace, a [Raspberry Pi Linux 
 
 ### Hardware
 To get started, you will need a Femtofox. You can either build or buy one.
+<details>
+  #### 1. Building a Femtofox
+  Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
+  Download the Gerber files from [here](TBC), selecting the set of files for your application:
 
-#### 1. Building a Femtofox
-Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
-Download the Gerber files from [here](TBC), selecting the set of files for your application:
+</details>
 
  - Bare PCB - you have all of the necessary components on hand
  - SMD populated PCB - you have a Luckfox Pico Mini and suitable radio module on hand, plus any other headers or connectors desired.
@@ -36,7 +38,8 @@ Ensure that the components are placed correctly on the PCB, and that the correct
 Assemble the PCBs according to the BOM and Pick&Place files, or the photographs below.
 
 Solder the Luckfox Pico Mini to the headers as low down as possible, to ensure easy access to the SD card.
-
+</details>
+<details>
 #### 2. Buying a Femtofox
 Although the Femtofox CE is only licensed for personal use and not for sale, a Femtofox Pro is available for purchase as a fully assembled node, through the following licensed sellers:
 
@@ -87,5 +90,5 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODgzMzQwNl19
+eyJoaXN0b3J5IjpbLTEzMzgxODI0MTAsMTkxODgzMzQwNl19
 -->
