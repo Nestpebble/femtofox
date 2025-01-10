@@ -38,7 +38,14 @@ Assemble the PCBs according to the BOM and Pick&Place files, or the photographs 
 Solder the Luckfox Pico Mini to the headers as low down as possible, to ensure easy access to the SD card.
 
 #### 2. Buying a Femtofox
-Although the Femtofox CE is only licensed for personal use and not for sale, a Femtofox Pro is available for purchase as a fully assembled node, through the following licensed sellers:
+The Femtofox Pro is available for purchase, and has several added features:
+* Arrives fully assembled
+* 4-Layer PCB allows for extra complexity
+* USB-C for power and built in serial debug, which allows for direct access to the Femtofox without network
+* Extra pins are mapped to the headers, allowing for easier expansion
+* An added "Kill Switch" breakout, allowing for the addition of an optional thermal fuse for added safety on solar builds
+* Additional decoupling capacitors
+The Femtofox Pro is available through the following licensed sellers:
 
  1. Open Source Country (USA)
  2. NomDeTom (UK)
@@ -46,12 +53,12 @@ Although the Femtofox CE is only licensed for personal use and not for sale, a F
  4. TBC
  5. TBC
 
-The Femtofox Pro has all the same features as the CE, plus a few features that only make sense when ordered at scale [Insert link]. If you require a large quantity of Femtofox boards, please get in touch.
+If you require a large quantity of Femtofox boards, please get in touch.
 
 ### Operating System
 
- 1. Download the latest image of Foxbuntu from the releases [link] and extract from the zip file.
- 2. Use an image flashing tool such as [Balena Etcher] to flash the image to a suitable SD card.
+ 1. Download the latest image of Foxbuntu from the releases [link] and extract from the 7z file with [7z program].
+ 2. Use an image flashing tool such as [Balena Etcher] to flash the image to a suitable SD card (see [supported hardware]).
  Note that the image will not appear bootable to Etcher, but will be functional in use.
  3. Insert the SD card into the reader of the Femtofox
 
@@ -59,10 +66,10 @@ The Femtofox Pro has all the same features as the CE, plus a few features that o
 Foxbuntu is ready to operate almost from the first boot. The settings can be configured using one of the following methods:
 
 #### Command Line
- 1. Serial console - connect a serial-USB adaptor to TX/RX/Gnd of UART2 (Femtofox CE) or insert a cable into the power/debug port (Femtofox Pro).
+ 1. Serial console - Connect a USB-C cable to the power/serial port (Femtofox Pro) or connect a serial-USB adaptor to TX/RX/Gnd of UART2 (Femtofox CE).
  2. SSH via Ethernet - connect a network cable either through the RJ45 port or by soldering directly to the Ethernet headers of the Luckfox (possible but not recommended) and connect it to your network. Identify the IP address via your Router (???) and connect using an SSH client of your choice.
 
-After first login, run `sudo femto-config` from the command prompt.
+After first login, run `sudo femto-config` from the command prompt, and launch the setup wizard.
 
 3. Web tool via Wifi AP mode - if a wifi adaptor is identified at first boot, and no configuration is provided for it, then the Femtofox will automatically generate a wifi hotspot to allow configuration. Connect to the wifi hotspot and access the web config tool using `192.168.4.1` in a browser.
 4. SSH via Wifi AP mode - ...
