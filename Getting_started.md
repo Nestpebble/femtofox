@@ -8,7 +8,7 @@ To get started, you will need a Femtofox. You can either build or buy one.
 
 <details>
 
-  #### 1. Building a Femtofox
+<#### 1. Building a Femtofox>
   Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
  - Download the Gerber files from [here](TBC), selecting the set of files for your application:
  - Bare PCB - you have all of the necessary components on hand
@@ -43,7 +43,8 @@ Solder the Luckfox Pico Mini to the headers as low down as possible, to ensure e
 <details>
 
   <summary> Click me </summary>
-  
+</#### 1. Building a Femtofox> 
+
 #### 2. Buying a Femtofox
 Although the Femtofox CE is only licensed for personal use and not for sale, a Femtofox Pro is available for purchase as a fully assembled node, through the following licensed sellers:
 
@@ -94,6 +95,6 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQwMDI1ODEsLTEzMzgxODI0MTAsMT
-kxODgzMzQwNl19
+eyJoaXN0b3J5IjpbMTM3NTk3Nzg0OCwtMTMzODE4MjQxMCwxOT
+E4ODMzNDA2XX0=
 -->
