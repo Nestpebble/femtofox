@@ -41,7 +41,7 @@ Assemble the PCBs according to the BOM and Pick&Place files, or the photographs 
 
 Solder the Luckfox Pico Mini to the headers as low down as possible, to ensure easy access to the SD card.
 
-</details>
+</expand>
 
 <details>
 
@@ -100,6 +100,6 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYzOTYyMjMsLTEzOTIyNzQ3OTYsLT
-EzMzgxODI0MTAsMTkxODgzMzQwNl19
+eyJoaXN0b3J5IjpbMTI1MzUyNjYzNywtMTM5MjI3NDc5NiwtMT
+MzODE4MjQxMCwxOTE4ODMzNDA2XX0=
 -->
