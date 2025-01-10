@@ -8,7 +8,7 @@ To get started, you will need a Femtofox. You can either build or buy one.
 
 <details>
 
-<#### 1. Building a Femtofox>
+< #### 1. Building a Femtofox >
   Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
  - Download the Gerber files from [here](TBC), selecting the set of files for your application:
  - Bare PCB - you have all of the necessary components on hand
@@ -95,6 +95,6 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTk3Nzg0OCwtMTMzODE4MjQxMCwxOT
-E4ODMzNDA2XX0=
+eyJoaXN0b3J5IjpbLTEzOTIyNzQ3OTYsLTEzMzgxODI0MTAsMT
+kxODgzMzQwNl19
 -->
