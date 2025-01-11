@@ -6,7 +6,7 @@ The Femtofox is similar to, and can functionally replace, a [Raspberry Pi Linux 
 ### Hardware
 To get started, you will need a Femtofox. You can either build or buy one.
 
-#### &nbsp;&nbsp;&nbsp; 1. Building a Femtofox
+<summary> #### &nbsp;&nbsp;&nbsp; 1. Building a Femtofox </summary> 
 <details>
 
   Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
@@ -94,6 +94,6 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0MTEzOTEsLTM4NDk1NTYwNSwtMTM5Mj
-I3NDc5NiwtMTMzODE4MjQxMCwxOTE4ODMzNDA2XX0=
+eyJoaXN0b3J5IjpbMTY2MjU4MDYwNiwtMzg0OTU1NjA1LC0xMz
+kyMjc0Nzk2LC0xMzM4MTgyNDEwLDE5MTg4MzM0MDZdfQ==
 -->
