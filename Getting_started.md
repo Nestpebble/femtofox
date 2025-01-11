@@ -8,12 +8,13 @@ To get started, you will need a Femtofox. You can either build or buy one.
 <details>
 <summary> <B> 1. Building a Femtofox </B>   (expand) </summary>
 Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
+
  - Download the Gerber files from [here](TBC), selecting the set of files for your application:
- - Bare PCB - you have all of the necessary components on hand
- - SMD populated PCB - you have a Luckfox Pico Mini and suitable radio module on hand, plus any other headers or connectors desired.
- - Radio and header populated PCB - only a Luckfox Pico Mini is required to complete the build. Two sets of files are provided for this, based on the radio module required:
-  - 22db (E22-900M22S)
-  - 30db (E22-900M30S)
+	 - Bare PCB - you have all of the necessary components on hand
+	 - SMD populated PCB - you have a Luckfox Pico Mini and suitable radio module on hand, plus any other headers or connectors desired.
+	 - Radio and header populated PCB - only a Luckfox Pico Mini is required to complete the build. Two sets of files are provided for this, based on the radio module required:
+		 - 22db (E22-900M22S)
+		 - 30db (E22-900M30S)
 
 Upload the Gerber .zip file to a PCB maker of your choice, e.g.:
  - JLCPCB
@@ -92,7 +93,7 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzI2Njg5Niw1Nzc4MjEzNzMsMTU5OT
+eyJoaXN0b3J5IjpbMTU1MDA5NjQ2MCw1Nzc4MjEzNzMsMTU5OT
 QzMTQ2MiwtMzg0OTU1NjA1LC0xMzkyMjc0Nzk2LC0xMzM4MTgy
 NDEwLDE5MTg4MzM0MDZdfQ==
 -->
