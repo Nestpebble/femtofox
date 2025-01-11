@@ -40,7 +40,7 @@ Solder the Luckfox Pico Mini to the headers as low down as possible, to ensure e
 
 </details>
 
-
+<details>
 <summary> <B> 2. Buying a Femtofox </b> </summary>
 
 Although the Femtofox CE is only licensed for personal use and not for sale, a Femtofox Pro is available for purchase as a fully assembled node, through the following licensed sellers:
@@ -94,7 +94,7 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTQ4ODA2MSw1Nzc4MjEzNzMsMTU5OT
+eyJoaXN0b3J5IjpbMjEyODc0NzgwMyw1Nzc4MjEzNzMsMTU5OT
 QzMTQ2MiwtMzg0OTU1NjA1LC0xMzkyMjc0Nzk2LC0xMzM4MTgy
 NDEwLDE5MTg4MzM0MDZdfQ==
 -->
