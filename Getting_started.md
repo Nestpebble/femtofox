@@ -7,15 +7,13 @@ The Femtofox is similar to, and can functionally replace, a [Raspberry Pi Linux 
 To get started, you will need a Femtofox. You can either build or buy one.
 <details>
 <summary> <B> 1. Building a Femtofox </B>   (expand) </summary>
-
-
-  Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
- - Download the Gerber files from [here](TBC), selecting the set of files for your application:
- - Bare PCB - you have all of the necessary components on hand
- - SMD populated PCB - you have a Luckfox Pico Mini and suitable radio module on hand, plus any other headers or connectors desired.
- - Radio and header populated PCB - only a Luckfox Pico Mini is required to complete the build. Two sets of files are provided for this, based on the radio module required:
-	 - 22db (E22-900M22S)
-	 - 30db (E22-900M30S)
+Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
+- Download the Gerber files from [here](TBC), selecting the set of files for your application:
+- Bare PCB - you have all of the necessary components on hand
+- SMD populated PCB - you have a Luckfox Pico Mini and suitable radio module on hand, plus any other headers or connectors desired.
+- Radio and header populated PCB - only a Luckfox Pico Mini is required to complete the build. Two sets of files are provided for this, based on the radio module required:
+ - 22db (E22-900M22S)
+ - 30db (E22-900M30S)
 
 Upload the Gerber .zip file to a PCB maker of your choice, e.g.:
  - JLCPCB
@@ -94,7 +92,7 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyMTMxNDUwLDU3NzgyMTM3MywxNTk5ND
-MxNDYyLC0zODQ5NTU2MDUsLTEzOTIyNzQ3OTYsLTEzMzgxODI0
-MTAsMTkxODgzMzQwNl19
+eyJoaXN0b3J5IjpbLTE3OTk0NzQ3OTAsNTc3ODIxMzczLDE1OT
+k0MzE0NjIsLTM4NDk1NTYwNSwtMTM5MjI3NDc5NiwtMTMzODE4
+MjQxMCwxOTE4ODMzNDA2XX0=
 -->
