@@ -6,7 +6,8 @@ The Femtofox is similar to, and can functionally replace, a [Raspberry Pi Linux 
 ### Hardware
 To get started, you will need a Femtofox. You can either build or buy one.
 <details>
-<summary> <B> 1. Building a Femtofox </B>   (expand) </summary>
+<summary> <B> 1. Building a Femtofox </B> </summary>
+
 Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
 
  - Download the Gerber files from [here](TBC), selecting the set of files for your application:
@@ -21,7 +22,7 @@ Upload the Gerber .zip file to a PCB maker of your choice, e.g.:
  - PCBWay
  - OSHPark
 
-Prototypes were made using JLCPCB. We recommend selecting a board thickness of 1.6mm, and a lead-free HASL surface finish. It is also suggested to select "Remove mark" for order serial numbers, as the Gerbers do not contain a specific location for this marking.
+Prototypes were made using JLCPCB. It is recommend to select a board thickness of 1.6mm, and a lead-free HASL surface finish. It is also suggested to select "Remove mark" for order serial numbers, as the Gerbers do not contain a specific location for this marking.
 
 Select the number of PCBs and the assembly options you require. Minimum PCB quantities are usually 5 boards, although assembly can be as few as 2 boards.
 
@@ -39,7 +40,7 @@ Solder the Luckfox Pico Mini to the headers as low down as possible, to ensure e
 
 </details>
 
-#### 2. Buying a Femtofox
+<b> 2. Buying a Femtofox </b>
 
 <details>
 Although the Femtofox CE is only licensed for personal use and not for sale, a Femtofox Pro is available for purchase as a fully assembled node, through the following licensed sellers:
@@ -93,7 +94,7 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDA5NjQ2MCw1Nzc4MjEzNzMsMTU5OT
-QzMTQ2MiwtMzg0OTU1NjA1LC0xMzkyMjc0Nzk2LC0xMzM4MTgy
-NDEwLDE5MTg4MzM0MDZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDMyNDc1ODgsNTc3ODIxMzczLDE1OT
+k0MzE0NjIsLTM4NDk1NTYwNSwtMTM5MjI3NDc5NiwtMTMzODE4
+MjQxMCwxOTE4ODMzNDA2XX0=
 -->
