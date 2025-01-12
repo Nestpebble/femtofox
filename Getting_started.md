@@ -90,11 +90,10 @@ See [this page](./usb_config.md) for details on how to configure via a USB drive
 Femtofox is supplied with pre-installed copies of many popular applications, such as:
 
  1. [Meshing Around](https://github.com/SpudGunMan/meshing-around) - a popular auto-responder/query handler/BBS/everything else.
- 2. TheCommsChannel BBS [link] - a popular BBS application
- 3. Curses Client for Meshtastic - the simplest, most retro client possible
- 4. Meshtastic Web
+ 2. [TheCommsChannel BBS](https://github.com/TheCommsChannel/TC2-BBS-mesh) - a popular BBS application
+ 3. [Curses Client for Meshtastic](https://github.com/pdxlocations/curses-client-for-meshtastic) - the simplest, most retro client possible
 
-Additional applications...
+Additional applications may be added to the default image in future.
 
 ### Updating
 Foxbuntu can be updated as follows...
@@ -103,5 +102,5 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNTY5MjI1LDE5MTg4MzM0MDZdfQ==
+eyJoaXN0b3J5IjpbMTQ0NTgxODg1OSwxOTE4ODMzNDA2XX0=
 -->
