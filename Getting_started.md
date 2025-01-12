@@ -86,6 +86,7 @@ After first login, run `sudo femto-config` from the command prompt, and launch t
 <summary> <B>   USB Config </B> </summary>
 
 See [this page](./usb_config.md) for details on how to configure via a USB drive.
+</details>
 
 ### Mesh Applications
 Femtofox is supplied with pre-installed copies of many popular applications, such as:
@@ -103,6 +104,6 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzAwOTAxNCwxNDQ1ODE4ODU5LDE5MT
-g4MzM0MDZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk1NDQzNzMsMTQ0NTgxODg1OSwxOT
+E4ODMzNDA2XX0=
 -->
