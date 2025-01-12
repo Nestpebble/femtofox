@@ -12,14 +12,12 @@ If you only require the bare PCB, or you intend to fit your own radio to a part-
  1. Select the [release files](tbc) that suit your requirements. 
  2. Upload the Gerber file (which is bundled as a .zip file and does not require extraction) to the quote engine of the site.
  3. Select additional options, such as surface finish, and removal of any order number information. The specific recommended options are as follows:
- - Lead-free HASL finish ~
-
-
-
-
-List item
- 3. 
+ - Lead-free HASL finish
+ - 1.6mm thick PCB
+ - Removal of order number marks (there is no anchor information provided in the Gerber files to limit where it is placed)
+4. Select the PCB assembly option
+5. Upload the BOM file and Pick & Place
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MDc1ODc3XX0=
+eyJoaXN0b3J5IjpbMTczNzYwNDEwMF19
 -->
