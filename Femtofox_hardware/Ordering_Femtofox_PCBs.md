@@ -17,8 +17,10 @@ If you only require the bare PCB, or you intend to fit your own radio to a part-
  - Removal of order number marks (there is no anchor information provided in the Gerber files to limit where it is placed)
 4. Select the PCB assembly option
 5. Upload the BOM file and Pick & Place file to the relevant boxes on the next page.
-6. Check which parts you actually require, and those that are in stock. If an item is no longer available, it is worth reviewing the specs for the original part and finding an alternative. Pay special care that replacement conn
+6. Check which parts you actually require, and those that are in stock. If an item is no longer available, it is worth reviewing the specs for the original part and finding an alternative. Pay special care that replacement connectors such as JST-PA (2.0mm) are used where they are called for.
+7. Check the 2D and 3D renders of the board to check that all modules are in the correct locations.
+8. Submit the design using a suitable origin code, and complete the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzgyMjM5N119
+eyJoaXN0b3J5IjpbLTExMDYxOTA0NzJdfQ==
 -->
