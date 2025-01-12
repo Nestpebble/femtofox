@@ -18,12 +18,13 @@ If you only require the bare PCB, or you intend to fit your own radio to a part-
 4. Select the PCB assembly option
 5. Upload the BOM file and Pick & Place file to the relevant boxes on the next page.
 6. Check which parts you actually require, and those that are in stock. If an item is no longer available, it is worth reviewing the specs for the original part and finding an alternative. Pay special care that replacement connectors such as JST-PA (2.0mm) are used where they are called for. The following items are duplicated, and only one option should be chosen:
- - PHR1/PHL1 and SHR1
+ - PHR1/PHL1 and SHR1/SHL1 are pin headers and socket headers respectively. They cannot be soldered at the same time.
+ - 2.54mm pin headers for UART2, UART4 and I2C are offered as an option, or 2.00mm pin headers are available in
 7. Check the 2D and 3D renders of the board to check that all modules are in the correct locations.
 8. Submit the design using a suitable origin code, and complete the ordering process.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY1NjA0MjcsLTY4MTE2MTIyNSwtMj
-EzNDUzMjcwOV19
+eyJoaXN0b3J5IjpbNDE0NTgzOTQ1LC02ODExNjEyMjUsLTIxMz
+Q1MzI3MDldfQ==
 -->
