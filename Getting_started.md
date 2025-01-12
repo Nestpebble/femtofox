@@ -79,14 +79,17 @@ After first login, run `sudo femto-config` from the command prompt, and launch t
 
 [ 3. Web tool via Wifi AP mode - if a wifi adaptor is identified at first boot, and no configuration is provided for it, then the Femtofox will automatically generate a wifi hotspot to allow configuration. Connect to the wifi hotspot and access the web config tool using `192.168.4.1` in a browser.]: #
 [ 4. SSH via Wifi AP mode - ... ]: #
+</detail>
 
-#### USB Config
+<details>
+<summary> <B>   USB Config </B> </summary>
+
 See [this page](./usb_config.md) for details on how to configure via a USB drive.
 
 ### Mesh Applications
 Femtofox is supplied with pre-installed copies of many popular applications, such as:
 
- 1. Meshing Around [link] - a popular auto-responder/query handler/BBS/everything else.
+ 1. [Meshing Around](https://github.com/SpudGunMan/meshing-around) - a popular auto-responder/query handler/BBS/everything else.
  2. TheCommsChannel BBS [link] - a popular BBS application
  3. Curses Client for Meshtastic - the simplest, most retro client possible
  4. Meshtastic Web
@@ -100,5 +103,5 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjE4MTI3MCwxOTE4ODMzNDA2XX0=
+eyJoaXN0b3J5IjpbOTgzNTY5MjI1LDE5MTg4MzM0MDZdfQ==
 -->
