@@ -73,12 +73,12 @@ Foxbuntu is ready to operate almost from the first boot. The settings can be con
 <summary> <B>  Command Line </B> </summary>
 
  1. Serial console - Connect a USB-C cable to the power/serial port (Femtofox Pro) or connect a serial-USB adaptor to TX/RX/Gnd of UART2 (Femtofox CE).
- 2. SSH via Ethernet - connect a network cable either through the RJ45 port or by soldering directly to the Ethernet headers of the Luckfox (possible but not recommended) and connect it to your network. Identify the IP address via your Router (???) and connect using an SSH client of your choice.
+ 2. SSH via Ethernet - connect a network cable either through the RJ45 port or by soldering directly to the Ethernet headers of the Luckfox (possible but not recommended) and connect it to your network. Identify the IP address via your DHCP server (e.g. your router) and connect using an SSH client of your choice.
 
 After first login, run `sudo femto-config` from the command prompt, and launch the setup wizard.
 
-[ 3. Web tool via Wifi AP mode - if a wifi adaptor is identified at first boot, and no configuration is provided for it, then the Femtofox will automatically generate a wifi hotspot to allow configuration. Connect to the wifi hotspot and access the web config tool using `192.168.4.1` in a browser.
-4. SSH via Wifi AP mode - ... ]: #
+[ 3. Web tool via Wifi AP mode - if a wifi adaptor is identified at first boot, and no configuration is provided for it, then the Femtofox will automatically generate a wifi hotspot to allow configuration. Connect to the wifi hotspot and access the web config tool using `192.168.4.1` in a browser.]: #
+[ 4. SSH via Wifi AP mode - ... ]: #
 
 #### USB Config
 See [this page](./usb_config.md) for details on how to configure via a USB drive.
@@ -100,5 +100,5 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjQ1ODUzLDE5MTg4MzM0MDZdfQ==
+eyJoaXN0b3J5IjpbLTUzMjE4MTI3MCwxOTE4ODMzNDA2XX0=
 -->
