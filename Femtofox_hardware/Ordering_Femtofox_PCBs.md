@@ -11,9 +11,15 @@ If you only require the bare PCB, or you intend to fit your own radio to a part-
 
  1. Select the [release files](tbc) that suit your requirements. 
  2. Upload the Gerber file (which is bundled as a .zip file and does not require extraction) to the quote engine of the site.
- 3. Select additional options, such as surface finish, and removal of any order number information. The specific 
- 4. 
+ 3. Select additional options, such as surface finish, and removal of any order number information. The specific recommended options are as follows:
+ - Lead-free HASL finish ~
+
+
+
+
+List item
+ 3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDY5MjAxNV19
+eyJoaXN0b3J5IjpbMzk3MDc1ODc3XX0=
 -->
