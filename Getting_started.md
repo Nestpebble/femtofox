@@ -80,7 +80,7 @@ After first login, run `sudo femto-config` from the command prompt, and launch t
 [ 3. Web tool via Wifi AP mode - if a wifi adaptor is identified at first boot, and no configuration is provided for it, then the Femtofox will automatically generate a wifi hotspot to allow configuration. Connect to the wifi hotspot and access the web config tool using `192.168.4.1` in a browser.]: #
 [ 4. SSH via Wifi AP mode - ... ]: #
 
-</detail>
+</details>
 
 <details>
 <summary> <B>   USB Config </B> </summary>
@@ -103,6 +103,6 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MzE4MDEsMTQ0NTgxODg1OSwxOTE4OD
-MzNDA2XX0=
+eyJoaXN0b3J5IjpbLTU1MzAwOTAxNCwxNDQ1ODE4ODU5LDE5MT
+g4MzM0MDZdfQ==
 -->
