@@ -45,20 +45,11 @@ Solder the Luckfox Pico Mini to the headers as low down as possible, to ensure e
 The Femtofox Pro is available for purchase, and has several added features:
 * Arrives fully assembled
 * 4-Layer PCB allows for extra complexity
-* USB-C for power and built in serial debug, which allows for direct access to the Femtofox without network or additional hard
+* USB-C for power and built in serial debug, which allows for direct access to the Femtofox without network or additional hardware
 * Extra pins are mapped to the headers, allowing for easier expansion
 * An added "Kill Switch" breakout, allowing for the addition of an optional thermal fuse for added safety on solar builds
 * Additional decoupling capacitors
 The Femtofox Pro is available through the following licensed sellers:
-
-</details>
-
-<details>
-<summary> <B> 2. Buying a Femtofox </b> </summary>
-
-Although the Femtofox CE is only licensed for personal use and not for sale, a Femtofox Pro is available for purchase as a fully assembled node, through the following licensed sellers:
-
-
  1. Open Source Country (USA)
  2. NomDeTom (UK)
  3. Noon (Central Korea)
@@ -66,7 +57,6 @@ Although the Femtofox CE is only licensed for personal use and not for sale, a F
  5. TBC
 
 If you require a large quantity of Femtofox boards, please get in touch.
-
 </details>
 
 ### Operating System
@@ -79,7 +69,9 @@ If you require a large quantity of Femtofox boards, please get in touch.
 ### Initial Configuration - Suggested Workflow
 Foxbuntu is ready to operate almost from the first boot. The settings can be configured using one of the following methods:
 
-#### Command Line
+<details>
+<summary> <B>  Command Line </B> </summary>
+
  1. Serial console - Connect a USB-C cable to the power/serial port (Femtofox Pro) or connect a serial-USB adaptor to TX/RX/Gnd of UART2 (Femtofox CE).
  2. SSH via Ethernet - connect a network cable either through the RJ45 port or by soldering directly to the Ethernet headers of the Luckfox (possible but not recommended) and connect it to your network. Identify the IP address via your Router (???) and connect using an SSH client of your choice.
 
@@ -108,5 +100,5 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjk3MjQyNywxOTE4ODMzNDA2XX0=
+eyJoaXN0b3J5IjpbLTE1MTczNDY0OTAsMTkxODgzMzQwNl19
 -->
