@@ -5,23 +5,24 @@ The Femtofox is similar to, and can functionally replace, a [Raspberry Pi Linux 
 
 ### Hardware
 To get started, you will need a Femtofox. You can either build or buy one.
+<details>
+<summary> <B> 1. Building a Femtofox </B> </summary>
 
-#### 1. Building a Femtofox
 Femtofox Community Edition (CE) is provided as standard PCB Gerber files and suitable Bills of Materials (BOM) and Pick and Place files for the components.
-Download the Gerber files from [here](TBC), selecting the set of files for your application:
 
- - Bare PCB - you have all of the necessary components on hand
- - SMD populated PCB - you have a Luckfox Pico Mini and suitable radio module on hand, plus any other headers or connectors desired.
- - Radio and header populated PCB - only a Luckfox Pico Mini is required to complete the build. Two sets of files are provided for this, based on the radio module required:
-	 - 22db (E22-900M22S)
-	 - 30db (E22-900M30S)
+ - Download the Gerber files from [here](TBC), selecting the set of files for your application:
+	 - Bare PCB - you have all of the necessary components on hand
+	 - SMD populated PCB - you have a Luckfox Pico Mini and suitable radio module on hand, plus any other headers or connectors desired.
+	 - Radio and header populated PCB - only a Luckfox Pico Mini is required to complete the build. Two sets of files are provided for this, based on the radio module required:
+		 - 22db (E22-900M22S)
+		 - 30db (E22-900M30S)
 
 Upload the Gerber .zip file to a PCB maker of your choice, e.g.:
  - JLCPCB
  - PCBWay
  - OSHPark
 
-Prototypes were made using JLCPCB. We recommend selecting a board thickness of 1.6mm, and a lead-free HASL surface finish. It is also suggested to select "Remove mark" for order serial numbers, as the Gerbers do not contain a specific location for this marking.
+Prototypes were made using JLCPCB. It is recommend to select a board thickness of 1.6mm, and a lead-free HASL surface finish. It is also suggested to select "Remove mark" for order serial numbers, as the Gerbers do not contain a specific location for this marking.
 
 Select the number of PCBs and the assembly options you require. Minimum PCB quantities are usually 5 boards, although assembly can be as few as 2 boards.
 
@@ -37,6 +38,7 @@ Assemble the PCBs according to the BOM and Pick&Place files, or the photographs 
 
 Solder the Luckfox Pico Mini to the headers as low down as possible, to ensure easy access to the SD card.
 
+
 #### 2. Buying a Femtofox
 The Femtofox Pro is available for purchase, and has several added features:
 * Arrives fully assembled
@@ -47,6 +49,14 @@ The Femtofox Pro is available for purchase, and has several added features:
 * Additional decoupling capacitors
 The Femtofox Pro is available through the following licensed sellers:
 
+</details>
+
+<details>
+<summary> <B> 2. Buying a Femtofox </b> </summary>
+
+Although the Femtofox CE is only licensed for personal use and not for sale, a Femtofox Pro is available for purchase as a fully assembled node, through the following licensed sellers:
+
+
  1. Open Source Country (USA)
  2. NomDeTom (UK)
  3. Noon (Central Korea)
@@ -54,6 +64,8 @@ The Femtofox Pro is available through the following licensed sellers:
  5. TBC
 
 If you require a large quantity of Femtofox boards, please get in touch.
+
+</details>
 
 ### Operating System
 
@@ -94,5 +106,6 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
+
 eyJoaXN0b3J5IjpbMTkxODgzMzQwNl19
 -->
