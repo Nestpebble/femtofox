@@ -37,9 +37,10 @@ Ensure that the components are placed correctly on the PCB, and that the correct
 Assemble the PCBs according to the BOM and Pick&Place files, or the photographs below.
 
 Solder the Luckfox Pico Mini to the headers as low down as possible, to ensure easy access to the SD card.
+</details>
 
-
-#### 2. Buying a Femtofox
+<details>
+<summary> <B> 2. Buying a Femtofox </B> </summary>
 The Femtofox Pro is available for purchase, and has several added features:
 * Arrives fully assembled
 * 4-Layer PCB allows for extra complexity
@@ -106,6 +107,5 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-
-eyJoaXN0b3J5IjpbMTkxODgzMzQwNl19
+eyJoaXN0b3J5IjpbMjAwNzc3MDEwMCwxOTE4ODMzNDA2XX0=
 -->
