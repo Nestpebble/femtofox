@@ -41,10 +41,11 @@ Solder the Luckfox Pico Mini to the headers as low down as possible, to ensure e
 
 <details>
 <summary> <B> 2. Buying a Femtofox </B> </summary>
+
 The Femtofox Pro is available for purchase, and has several added features:
 * Arrives fully assembled
 * 4-Layer PCB allows for extra complexity
-* USB-C for power and built in serial debug, which allows for direct access to the Femtofox without network
+* USB-C for power and built in serial debug, which allows for direct access to the Femtofox without network or additional hard
 * Extra pins are mapped to the headers, allowing for easier expansion
 * An added "Kill Switch" breakout, allowing for the addition of an optional thermal fuse for added safety on solar builds
 * Additional decoupling capacitors
@@ -107,5 +108,5 @@ The mesh applications can be updated as follows...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzc3MDEwMCwxOTE4ODMzNDA2XX0=
+eyJoaXN0b3J5IjpbMjAwMjk3MjQyNywxOTE4ODMzNDA2XX0=
 -->
