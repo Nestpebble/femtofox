@@ -1,7 +1,6 @@
+## Femtofox - Building from PCBs
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+This page gives information on how to build the Femtofox  Community Edition (CE) from PCBs. This guide is written around the JLCPCB process, although many other PCB makers exist and may be preferable to you based on price, options, and manufacturing and shipping times.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwNjgzOTIzOTFdfQ==
 -->
