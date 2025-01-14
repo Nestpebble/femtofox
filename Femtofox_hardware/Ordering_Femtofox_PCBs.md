@@ -23,11 +23,13 @@ If you only require the bare PCB, or you intend to fit your own radio to a part-
  - PHR1/PHL1 and SHR1/SHL1 are pin headers and socket headers respectively. They cannot be soldered at the same time, so pick one.
  - Likewise, ETH and ETHS are pins and sockets for the ethernet pads. Choose one only.
  - 2.54mm pin headers for UART2, UART4 and I2C are offered as an option, or 2.00mm pin headers are available in the same physical space. 2.54mm pins are designated with _HDR at the end. Choose one or the other.
-8. Check the 2D and 3D renders of the board to check that all modules are in the correct locations.
-9. Submit the design using a suitable origin code, and complete the ordering process.
+ - Choose one of the 30db and 22db versions of the E22 module only.
+8. Once the correct parts are chosen, check the 2D and 3D renders of the board to check that all modules are in the correct locations.
+9. Finish the design submission and complete the ordering process.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Nzk0OTkyNyw5MDE5MTI5MDUsOTMyNj
+eyJoaXN0b3J5IjpbMTQ2NDk2Mjk0Nyw5MDE5MTI5MDUsOTMyNj
 M5MDU0LC02ODExNjEyMjUsLTIxMzQ1MzI3MDldfQ==
 -->
