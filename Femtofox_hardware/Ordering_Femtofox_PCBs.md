@@ -3,7 +3,7 @@
 This page gives information on how to order PCBs for the Femtofox Community Edition (CE). This guide is written around the JLCPCB process, although many other PCB makers exist and may be preferable to you based on price, options, and manufacturing and shipping times.
 
 ### Selecting the right parts
-At step 6, below, there are choices to be made
+At step 6, below, there are choices to be made about which TVS diodes are fitted, which type of header is fitted, and whether sockets or header pins are provided for the peripheral interfaces. Pay close attention, or your order may be rejected by JLC.
 
 ### Ordering the PCBs
 
@@ -28,6 +28,6 @@ At step 6, below, there are choices to be made
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM5MDI1MTYsOTAxOTEyOTA1LDkzMj
+eyJoaXN0b3J5IjpbLTE3MTA0MzM4NzEsOTAxOTEyOTA1LDkzMj
 YzOTA1NCwtNjgxMTYxMjI1LC0yMTM0NTMyNzA5XX0=
 -->
