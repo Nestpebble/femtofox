@@ -2,10 +2,8 @@
 
 This page gives information on how to order PCBs for the Femtofox Community Edition (CE). This guide is written around the JLCPCB process, although many other PCB makers exist and may be preferable to you based on price, options, and manufacturing and shipping times.
 
-### Selecting the right files
-Please bear in mind that although the PCB is essentially the same, the parts list (BOM) and associated Pick and Place file will differ based on your choice.
-The PCB comes in 3 variants based on the radio module being used - Ebyte E22-900M30S (a 30db, 5V module), Ebyte E22-900M22S (a 22db 3.3V module), or the Seeed WIO SX1262 (an alternative 22db 3.3v module).
-If you only require the bare PCB, or you intend to fit your own radio to a part-assembled board then either of the 22db radio boards will do.
+### Selecting the right parts
+At step 6, below, there are choices to be made
 
 ### Ordering the PCBs
 
@@ -30,6 +28,6 @@ If you only require the bare PCB, or you intend to fit your own radio to a part-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDk2Mjk0Nyw5MDE5MTI5MDUsOTMyNj
-M5MDU0LC02ODExNjEyMjUsLTIxMzQ1MzI3MDldfQ==
+eyJoaXN0b3J5IjpbLTE1NjM5MDI1MTYsOTAxOTEyOTA1LDkzMj
+YzOTA1NCwtNjgxMTYxMjI1LC0yMTM0NTMyNzA5XX0=
 -->
