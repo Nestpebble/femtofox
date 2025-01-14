@@ -93,12 +93,10 @@ Femtofox is supplied with pre-installed copies of many popular applications, suc
 Additional applications may be added to the default image in future.
 
 ### Updating
-Foxbuntu can be updated as follows...
-Meshtasticd, the core Linux Native implementation of Meshtastic, can be updated as follows...
-The mesh applications can be updated as follows...
+Foxbuntu, Meshtasticd and the mesh applications can be updated as using the `Femto-Config` tool.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODA0NjE5MSwtMTk0OTU0NDM3MywxND
+eyJoaXN0b3J5IjpbMTI1OTQ2NDAwNiwtMTk0OTU0NDM3MywxND
 Q1ODE4ODU5LDE5MTg4MzM0MDZdfQ==
 -->
